@@ -19,7 +19,7 @@ The project focuses on:
 This project was developed as a **frontend practice exercise** to strengthen layout and styling skills, and to be showcased as part of my **personal portfolio**.
 
 ## 🌐 Demo
-You can view the live version [here](#) *(add your deployment link once available)*
+You can view the live version [here](https://hashemi-st.github.io/Responsive-Social-Media-Website/) 
 
 ## 📂 How to Run
 1. Clone the repository:
